@@ -1,0 +1,9 @@
+name: Punishment-Bukkit
+main: me.legitmodern.Punishment.Main
+version: 1.0-SNAPSHOT
+author: LegitModern
+
+permissions:
+    punishment.staff:
+       description: Allows one to not receive punishments and/or be notified when a staff member tries to punish another staff member.
+       default: op

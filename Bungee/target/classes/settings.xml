@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<settings>
+    <MySQL>
+        <Address>localhost</Address>
+        <Port>3306</Port>
+        <Database>PunishmentDB</Database>
+        <Username>root</Username>
+        <Password>password</Password>
+    </MySQL>
+</settings>

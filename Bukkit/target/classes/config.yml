@@ -1,0 +1,6 @@
+MySQL:
+  Address: localhost
+  Port: 3306
+  Database: PunishmentDB
+  Username: root
+  Password: password

@@ -1,0 +1,9 @@
+name: ${project.name}
+main: ${mainClass}
+version: ${project.version}
+author: ${author}
+
+permissions:
+    punishment.staff:
+       description: Allows one to not receive punishments and/or be notified when a staff member tries to punish another staff member.
+       default: op
